@@ -2,11 +2,9 @@
 
 ## section
 
-On peut faire du **gras**, de *l'italique*, du ~barré~ et en <span style="text-decoration: underline">rusant du souligne</span>
-
+On peut faire du **gras**, de _l'italique_, du ~barré~ et en <span style="text-decoration: underline">rusant du souligne</span>
 
 On peut gérer du code, soi inline, come pour `ls -la`, soit en bloc:
-
 
 ```
 <html>
@@ -22,12 +20,13 @@ On peut gérer du code, soi inline, come pour `ls -la`, soit en bloc:
 
 </html>
 ```
+
 Exemple ligne 1
 Toujours ligne 1
 
 Ligne 2
 
-> Petits commit, petites emmerdes! 
+> Petits commit, petites emmerdes!
 > Toujours ligne 1
 >
 > Ligne 2
@@ -49,7 +48,7 @@ Ligne 2
 - eleme 1
 - eleme 2
 - eleme 3
-  
+
 ## Les images
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)
@@ -62,11 +61,11 @@ Ligne 2
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-
 ## Les tableaux
 
-| Nom de commande | Description |
-|----|----|
-|`ls`|Liste les fichiers|
-|`cat`| Affiche un contenu|
+| Nom de commande | Description        |
+| --------------- | ------------------ |
+| `ls`            | Liste les fichiers |
+| `cat`           | Affiche un contenu |
+
 source ./.venv/bin/activate
