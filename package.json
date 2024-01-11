@@ -1,0 +1,25 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlo13/documentation-markdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marlo13/documentation-markdown/issues"
+  },
+  "homepage": "https://github.com/Marlo13/documentation-markdown#readme",
+  "dependencies": {
+    "eslint": "^8.56.0"
+  }
+}
